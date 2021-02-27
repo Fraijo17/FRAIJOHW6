@@ -6,6 +6,9 @@ As a traveler, i need an app to generate an east to read weather forecast at any
 
 
 
+https://github.com/Fraijo17/FRAIJOHW6/blob/master/images/Screen%20Shot%202021-02-26%20at%2010.31.33%20PM.png
+
+
 
 
 
